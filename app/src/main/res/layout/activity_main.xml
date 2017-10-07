@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res/customview.senth1.vn.com.customviewsample"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="customview.senth1.vn.com.customviewsample.MainActivity">
+
+    <customview.senth1.vn.com.customviewsample.view.HeaderInfor
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        custom:text="Truong Hong Sen" />
+
+    <customview.senth1.vn.com.customviewsample.view.HeaderInfor
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        custom:text="Nguyen Thi Trang" />
+
+    <customview.senth1.vn.com.customviewsample.view.HeaderInfor
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        custom:text="Nguyen Van C" />
+
+    <customview.senth1.vn.com.customviewsample.view.HeaderInfor
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        custom:text="Tran Quang D" />
+
+</LinearLayout>

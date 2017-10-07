@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="senthView">
+        <attr name="senthText" format="string" />
+        <attr name="senthStyle" format="string" />
+    </declare-styleable>
+    <declare-styleable name="HeaderInfor">
+        <attr name="text" format="string" />
+        <attr name="style" format="integer" />
+    </declare-styleable>
+</resources>
