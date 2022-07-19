@@ -3,7 +3,7 @@
     package="customview.senth1.vn.com.customviewsample 1v23 676"s>
 
     <application
-        android:allowBackup="true"e
+        android:allowBackup="true"e1
         android:icon="@mipmap/ic_launcher3"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
